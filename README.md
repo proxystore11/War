@@ -5,3 +5,9 @@
 بعد لینک مربوطه رو اضافه کنید
 
 **موفق‌باشید**
+
+📣[کانفیگ‌کده](https://t.me/proxystore11)
+
+🛡[پروکسی‌کده](https://t.me/proxystoremt11)
+
+💬[گپ‌کانفیگ‌کده](https://t.me/proxystore11gp)
