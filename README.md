@@ -6,7 +6,7 @@
   
 **به‌امید‌ازادی‌ایران**  
 
-[دانلود‌هدیفای‌نکست](https://github.com/hiddify/hiddify-next/releases)
+📥[دانلود‌هدیفای‌نکست](https://github.com/hiddify/hiddify-next/releases)
 
 📣[کانفیگ‌کده](https://t.me/proxystore11)
 
