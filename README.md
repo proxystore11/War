@@ -4,7 +4,9 @@
 ابتدا هدیفای خودتونو به اخرین نسخه بروز کنید
 بعد لینک مربوطه رو اضافه کنید
   
-**به‌امید‌ازادی‌ایران**  [دانلود‌هدیفای‌نکست](https://github.com/hiddify/hiddify-next/releases)
+**به‌امید‌ازادی‌ایران**  
+
+[دانلود‌هدیفای‌نکست](https://github.com/hiddify/hiddify-next/releases)
 
 📣[کانفیگ‌کده](https://t.me/proxystore11)
 
